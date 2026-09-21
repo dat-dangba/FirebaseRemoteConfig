@@ -1,0 +1,9 @@
+{
+  "name": "com.eagle.firebase.remoteconfig",
+  "displayName": "Eagle - Firebase RemoteConfig",
+  "description": "Firebase RemoteConfig",
+  "author": "datdb - Third Party SDKs",
+  "version": "13.10.0",
+  "dependencies": {
+  }
+}
