@@ -3,7 +3,7 @@
   "displayName": "ddb - Firebase Remote Config",
   "description": "Firebase RemoteConfig",
   "author": "datdb - Third Party SDKs",
-  "version": "13.10.0",
+  "version": "13.17.0",
   "dependencies": {
   }
 }
