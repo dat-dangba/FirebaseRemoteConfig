@@ -1,7 +1,11 @@
 fileFormatVersion: 2
-guid: fac5e0c5965874650a85d9f20ec9326b
-TextScriptImporter:
-  externalObjects: {}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
+guid: 12ddfbe8c9c840a4ba9ed0ed7ca2f1a3
+labels:
+- gvh
+- gvh_version-13.17.0
+- gvhp_exportpath-Firebase/Editor/RemoteConfigDependencies.xml
+timeCreated: 1480838400
+DefaultImporter:
+  userData:
+  assetBundleName:
+  assetBundleVariant:
